@@ -1,0 +1,7 @@
+terra-keyy
+terra-keyy.pub
+terraform.tfstate
+terraform.tfstate.backup
+.backup
+.terraform
+.terraform.lock.hcl
